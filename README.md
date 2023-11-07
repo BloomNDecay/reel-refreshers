@@ -62,6 +62,9 @@ You can see a live demo of ReelRefreshers (put link here).
 * Taylor Reyes - [BloomNDecay](github.com/BloomNDecay)
 * Maura Salgo - [maurasal](github.com/maurasal)
 
+## Link
+https://bloomndecay.github.io/reel-refreshers/
+
 ## License
 This project is licensed under the MIT License.
 
